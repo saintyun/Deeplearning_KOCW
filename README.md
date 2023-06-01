@@ -7,4 +7,4 @@ KOCW 실무에 활용하는 딥러닝  / http://www.kocw.net/home/cview.do?cid=c
 
 https://drive.google.com/drive/folders/1WiCBBFSH5yW-c-vVfSCkES2QCtyuE8NW?usp=sharing
 
->>> '영화추천' 소스가 없음( movies.csv ) 아마도 라이브러리에서 제공하는 데이터셋 같은데.... 귀찮아 :(
+> '영화추천' 소스가 없음( movies.csv ) 아마도 라이브러리에서 제공하는 데이터셋 을 당겨와서 테스트 했던것 같은데....  강의 내용을 다시 들어야 알 것 같음.... 귀찮아 :(
